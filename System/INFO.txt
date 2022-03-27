@@ -1,0 +1,66 @@
+Updated 26/3/2022
+
+3435	Holiday Token - Cola n
+3433	Clan Medal	- Cola n
+6635	Elite Token - Cola n
+9960	Chaotic Stone - Statue
+3436	Gran Kain's Stone - Statue
+6103	Shattered Soul of Shilen - Statue
+4042	Enria - Cola
+4043	Asofe - Cola
+4044	Thons - Cola
+6516	Elite Isle Box - L2 Logo
+
+( 5249    Tipsy's Iron Ball )
+
+6656	Earring of Antharas	 - Nvidia
+6657	Necklace of Valakas	 - Nvidia
+6658	Ring of Baium - Nvidia
+6659	Zaken's Earring - Nvidia
+6660	Ring of Queen Ant - Nvidia
+6661	Earring of Orfen	 - Nvidia
+6662	Ring of Core - Nvidia
+8972	Necklace of Zakaron - Nvidia
+
+6088	Blessed Earring of Antharas - Nvidia
+6089	Blessed Ring of Baium - Nvidia
+8986	Blessed Ring of Core - Nvidia
+6102	Blessed Earring of Orfen - Nvidia
+6100	Blessed Ring of Queen Ant - Nvidia 
+6087	Blessed Necklace of Valakas	- Nvidia 
+8985	Blessed Necklace of Zakaron - Nvidia 
+6101	Blessed Zaken's Earring - Nvidia
+
+
+614	Elite Cloak	- Nvidia
+615	Cloak of Queen Ant - Nvidia
+616	Zaken's Cloak	 - Nvidia 
+618	Challenger Cloak - Nvidia
+619	Cloak of Baium	- Nvidia
+620	Cloak of Antharas - Nvidia
+621	Valakas' Cloak - Nvidia
+622	Cloak of Dawn	- Nvidia
+624	Wizard's Cloak - Nvidia
+2490	Cloak of Genesis - Nvidia
+8956	Warrior's Cloak	- Nvidia
+8980	Cloak of Dusk	- Nvidia
+683	Genesis Undergarment - Nvidia
+
+
+8957	Bottle Fragment of Valakas Soul		- Kingfreak
+8958	Bottle Fragment of Antharas Soul		- Kingfreak
+8959	Bottle Fragment of Baium Soul		- Kingfreak
+8960	Bottle Fragment of Queen Ant Soul		- Kingfreak
+8961	Bottle Fragment of Zaken Soul		- Kingfreak
+8962	Bottle Fragment of Orfen Soul		- Kingfreak
+8973	Bottle Fragment of Core Soul		- Kingfreak
+8974	Bottle Fragment of Zakaron Soul		- Kingfreak
+
+6061	Bottle of Valakas Soul		- Orfen
+6062	Bottle of Antharas Soul		- Orfen
+6063	Bottle of Baium Soul		- Orfen
+6074	Bottle of Queen Ant Soul		- Orfen
+6075	Bottle of Zaken Soul		- Orfen
+6076	Bottle of Orfen Soul		- Orfen
+8975	Bottle of Core Soul		- Orfen
+8976	Bottle of Zakaron Soul		- Orfen
