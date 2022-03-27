@@ -1,0 +1,13 @@
+0	3	25	14	0	dropitems.drop_nvidia_m00			dropitemstex.drop_nvidia_t00
+
+0	3	14	20	0	dropitems.drop_coke_m00			dropitems.drop_coke_m00
+
+0	3	14	27	0	dropitems.drop_figure_FElf_m00			dropitemstex.drop_figure_FElf_t00
+
+0	3	35	55	0	LineageMonsters.orfen_m00			LineageMonstersTex.orfen_t00
+
+0	3	45	50	0	LineageMonsters.queen_ant_m00			LineageMonstersTex.queen_ant_t00
+
+0	3	50	40	0	LineageMonsters.king_bugbear_m00			LineageMonsters.king_bugbear_t00
+
+0	0	20	3	0	dropitems.item_l2_m00			dropitemstex.item_l2_2_t00	
